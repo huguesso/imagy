@@ -1,0 +1,26 @@
+{
+  "name": "imagy",
+  "version": "1.0.0",
+  "description": "🦚 easy on demande image manipulation library with an HTTP based API in node js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huguesso/imagy.git"
+  },
+  "keywords": [
+    "imagy",
+    "easy on-demand image"
+  ],
+  "author": {
+    "name": "hugues olinga",
+    "email": "dev.olinga@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huguesso/imagy/issues"
+  },
+  "homepage": "https://github.com/huguesso/imagy#readme"
+}
